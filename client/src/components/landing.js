@@ -37,7 +37,7 @@ const Landing = props => {
                     </ModalBody>
                 </Modal>
                 
-                <NavLink href="https://github.com/Ta7ar"><Button>Github</Button></NavLink>
+                <NavLink href="https://github.com/Teja-s-au6/tic-tac-toe"><Button>Github</Button></NavLink>
                 
             
         </motion.div>
